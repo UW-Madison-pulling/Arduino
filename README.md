@@ -1,5 +1,5 @@
 # Arduino
-This contains Arduino code.
+This repo contains Arduino code.
 
 ## Contents
 - [Set Baud Frequency](antenna/set_baud/set_baud.ino)
